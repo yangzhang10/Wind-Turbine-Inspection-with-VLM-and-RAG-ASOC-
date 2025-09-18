@@ -10,14 +10,18 @@ Key packages: torch, transformers, faiss, numpy, matplotlib
 
 ## Repository Structure
 
-### code/ Main implementation (training & inference)
-### test/ Testing images used in the paper
-### Reference/ Knowledge images for retrieval
-### README.md This file
+1. code/ Main implementation (training & inference)
+2. test/ Testing images used in the paper
+3. Reference/ Knowledge images for retrieval
+4. README.md This file
 
 ## Usage
 
-Open the notebook in Google Colab and select T4 GPU as the runtime.
+1. Open the notebook in Google Colab and select T4 GPU as the runtime.
+
+2. Upload the reference images to a cloud storage service (e.g., Aliyun) and obtain the URL for each image. Save these URLs in a CSV file, and place the file in the designated path specified in the code.
+
+3. Upload the test images to the cloud storage and obtain the URL for each image. Save these URLs in another CSV file, and place the file in the designated path specified in the code.
 
 ## Datasets Used
 
@@ -35,7 +39,7 @@ Note: The datasets are not hosted in this repository. Please access them from th
 
 If you find this repository useful, please cite our paper:
 
-[Paper citation here, once available]
+[Here is citation]
 
 ## License
 MIT License
