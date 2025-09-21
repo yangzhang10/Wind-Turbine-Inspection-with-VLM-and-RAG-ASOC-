@@ -19,7 +19,7 @@ Key packages: torch, transformers, faiss, numpy, matplotlib
 
 1. Open the notebook in Google Colab and select T4 GPU as the runtime.
 
-2. Upload the reference images to a cloud storage service (e.g., Aliyun) and obtain the URL for each image. Save these URLs in a CSV file, and place the file in the designated path specified in the code.
+2. Upload the reference images to a cloud storage service (e.g., Aliyun, it is used in this paper.) and obtain the URL for each image. Save these URLs in a CSV file, and place the file in the designated path specified in the code.
 
 3. Upload the test images to the cloud storage and obtain the URL for each image. Save these URLs in another CSV file, and place the file in the designated path specified in the code.
 
