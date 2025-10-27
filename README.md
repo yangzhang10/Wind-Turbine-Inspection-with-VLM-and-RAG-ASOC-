@@ -10,7 +10,7 @@ Key packages: torch, transformers, faiss, numpy, matplotlib
 
 ## Repository Structure
 
-1. code/ Main implementation (training & inference)
+1. code/ Main implementation (training & inference). Coming soon...
 2. test/ Testing images used in the paper
 3. Reference/ Knowledge images for retrieval
 4. README.md This file
