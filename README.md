@@ -18,8 +18,9 @@ The manuscript was ultimately rejected after multiple rounds of review.
 ### Subsequent Handling
 - After several months, the manuscript was sent out for an additional review round.
 - More than 30 reviewers were invited.
+- Many months later, I sent message to Elsvier to see what is going on with the manuscript since no editor handles it.
 
-## Reviewer Decisions
+## Reviewer Decisions (2026-02-02)
 
 - One reviewer, who participated in the first two review rounds, recommended acceptance with a high evaluation and stated that:
   - All referee comments (e.g., formatting, statistical validity, international perspective, DOI comparison) had been fully addressed.
@@ -28,8 +29,6 @@ The manuscript was ultimately rejected after multiple rounds of review.
 
 - Two additional reviewers recommended rejection.
   - One review emphasized the absence of publicly released source code at the time of review.
-
-  
 
 
 ## Requirements & Environment
