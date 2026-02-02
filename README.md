@@ -1,7 +1,36 @@
 # Wind Turbine Inspection with VLM and RAG (ASOC 2025)
 
-This repository contains the code and resources for our paper in Applied Soft Computing (ASOC).
-It implements a Retrieval-Augmented Generation (RAG) enhanced Vision-Language Model (VLM) framework for zero-shot wind turbine blade inspection.
+This repository contains the code and resources associated with a paper submitted to *Applied Soft Computing (ASOC)*.  
+The paper proposes a Retrieval-Augmented Generation (RAG)–enhanced Vision–Language Model (VLM) framework for zero-shot wind turbine blade inspection.
+
+The manuscript was ultimately rejected after multiple rounds of review.
+
+## Review History
+
+- **Initial submission:** April 28, 2025  
+- **First revision submitted:** September 8, 2025  
+- **Second revision submitted:** September 20, 2025  
+
+### Second Review Round
+- The managing editor requested the inclusion of interactive plots.
+- The editor-in-chief later confirmed that interactive plots were not required.
+
+### Subsequent Handling
+- After several months, the manuscript was sent out for an additional review round.
+- More than 30 reviewers were invited.
+
+## Reviewer Decisions
+
+- One reviewer, who participated in the first two review rounds, recommended acceptance with a high evaluation and stated that:
+  - All referee comments (e.g., formatting, statistical validity, international perspective, DOI comparison) had been fully addressed.
+  - The manuscript met the requirements of the VSI.
+  - The reported accuracy and interpretability made the work a useful reference for industrial inspection, despite the limited data volume.
+
+- Two additional reviewers recommended rejection.
+  - One review emphasized the absence of publicly released source code at the time of review.
+
+  
+
 
 ## Requirements & Environment
 
