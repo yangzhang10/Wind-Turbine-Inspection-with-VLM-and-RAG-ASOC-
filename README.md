@@ -23,9 +23,12 @@ The manuscript was ultimately rejected after multiple rounds of review.
 ## Reviewer Decisions (2026-02-02)
 
 - One reviewer, who participated in the first two review rounds, recommended acceptance with a high evaluation and stated that:
-  - All referee comments (e.g., formatting, statistical validity, international perspective, DOI comparison) had been fully addressed.
-  - The manuscript met the requirements of the VSI.
-  - The reported accuracy and interpretability made the work a useful reference for industrial inspection, despite the limited data volume.
+    All the comments of the referees (e.g. format, statistical validity, international perspective, DOI comparison) have been fully and professionally addressed.
+    The article is of excellent scientific, methodological, innovative and writing quality and fully complies with the VSI.
+    The 100% accuracy and interpretability make the article a valuable reference for industrial inspection, despite the small volume of data.
+    Congratulations to the authors for the very high quality work and responsible response to the refereeing process. This article will make a significant contribution to the advancement of VLM applications in renewable energy.
+
+- The reported accuracy and interpretability made the work a useful reference for industrial inspection, despite the limited data volume.
 
 - Two additional reviewers recommended rejection.
   - One review emphasized the absence of publicly released source code at the time of review.
