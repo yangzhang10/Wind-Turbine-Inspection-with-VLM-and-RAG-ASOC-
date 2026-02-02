@@ -31,7 +31,7 @@ The manuscript was ultimately rejected after multiple rounds of review.
 - The reported accuracy and interpretability made the work a useful reference for industrial inspection, despite the limited data volume.
 
 - Two additional reviewers recommended rejection.
-  - One review emphasized the absence of publicly released source code at the time of review.
+  - One review emphasized the absence of publicly released source code at the time of review. (The author removed it because there are issues in the review process at that time.)
 
 
 ## Requirements & Environment
